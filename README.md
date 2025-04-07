@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- [Personal Web Page](https://khb7840.github.io/)
+- [Personal Web Page](https://hyunbinkim.com)
 - [CV](https://github.com/khb7840/HyunbinKim-CV/blob/a2dc0f96a9d467321cb603c46c2946b6ae289826/pdf/HyunbinKim_CV.pdf)
 
 <!--
